@@ -1,3 +1,4 @@
 RENCANA KU
 -Membuat konten untuk share ilmu di platform pribadi
 -Membuat video trending tentang percodingan
+-konsisten live di platform pribadi
